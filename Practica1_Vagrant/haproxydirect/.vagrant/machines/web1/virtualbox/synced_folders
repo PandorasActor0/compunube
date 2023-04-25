@@ -1,0 +1,1 @@
+{"virtualbox":{"/demo--replica":{"guestpath":"/demo--replica","hostpath":"D:/compunube/Practica1_Vagrant/demo--replica","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/compunube/Practica1_Vagrant/haproxydirect","disabled":false,"__vagrantfile":true}}}
