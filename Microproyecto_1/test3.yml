@@ -1,0 +1,10 @@
+config:
+  target: "http://192.168.100.4"
+  phases:
+    - duration: 30
+      arrivalRate: 10
+      maxVusers: 50
+scenarios:
+  - flow:
+    - get:
+        url: "/"

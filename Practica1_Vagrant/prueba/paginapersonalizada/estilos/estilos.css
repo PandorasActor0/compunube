@@ -1,0 +1,34 @@
+/* Establecemos las condicones generales de tipo de letra y color de fondo */
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+
+/* Aquí se establecemos las reglas del menu*/
+.menu{
+	list-style: none; 
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto; 
+}
+
+/* Se modifican los enlaces */
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+/* Se ponen las listas en horizontal */
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+/* Se configura el efecto hover */
+.menu li a:hover{
+	background: #ef8354;
+}
